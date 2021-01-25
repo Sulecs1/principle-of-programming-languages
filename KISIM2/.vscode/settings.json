@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "KIMLIKNO.C": "cpp",
+        "chrono": "c",
+        "stdlib.h": "c",
+        "rastgelekisi.h": "c"
+    }
+}
